@@ -1,7 +1,9 @@
 # Lab3
 
 ## Instructions
-In this assignment, you will conduct your own analysis using the provided dataset. Follow the prompts in each section and write the necessary Python code to complete the tasks.
+In this assignment, you will conduct your own analysis using the provided dataset (digital_services_data.csv) and the starter code in the Lab 3 notebook. 
+
+Follow the prompts in each section and write the necessary Python code to complete the tasks.
 
 **Tasks:**
 - Load and explore the dataset
